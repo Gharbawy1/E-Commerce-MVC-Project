@@ -68,10 +68,21 @@ The project is organized into the following layers:
 - **Shared Models**: Defines entities and DTOs used across layers.
 
 
-![Project Structre photo](https://ibb.co/8KHYnFQ)
+![Project Structure](https://i.postimg.cc/fyL5NJWL/photo-2025-01-10-22-09-14.jpg)
+---
+
+![Project Structure](https://i.postimg.cc/W4cn3sw2/photo-2025-01-10-22-38-55.jpg
+)
+---
 
 
 
+![Project Structure](https://i.postimg.cc/vTT7jTbv/photo-2025-01-10-22-39-05.jpg
+)
+---
+
+![Project Structure](https://i.postimg.cc/j216rTjY/photo-2025-01-10-22-39-21.jpg
+)
 ---
 
 ### **Setup Instructions**
@@ -97,13 +108,8 @@ The project is organized into the following layers:
      }
      ```
 
-### **Screenshots**
-1. **Website UI:**
-   _**(Insert images of the website’s homepage, product pages, etc.)**_
-
-2. **Admin Dashboard:**
-   _**(Insert images of the admin panel and data management features.)**_
-
-3. **Project Structure:**
-   _**(Insert an image of the folder structure of the project.)**_
-
+---
+![Youtube photo](https://www.gstatic.com/youtube/img/branding/youtubelogo/svg/youtubelogo.svg)
+### **Demo Video**
+Check out the demo video of the project below:
+[Watch the Demo Video](https://drive.google.com/file/d/18qTs-MvpdRL9y5LlJwxDHJ0uxM8VqiBT/view?usp=sharing)
