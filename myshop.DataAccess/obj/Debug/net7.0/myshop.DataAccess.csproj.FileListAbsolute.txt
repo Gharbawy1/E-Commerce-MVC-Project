@@ -1,0 +1,170 @@
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+D:\myshop Course Final\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+E:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+E:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+E:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+E:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+E:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+E:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+E:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+C:\Users\Mohamed.Alaa\Documents\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+D:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+D:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+D:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+D:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+D:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+D:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+D:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+D:\Notes\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+D:\Notes\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+D:\Notes\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+D:\Notes\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+D:\Notes\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+D:\Notes\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+D:\Notes\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+C:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+C:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+C:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+C:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+C:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+C:\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+C:\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+C:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+C:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+C:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+C:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+C:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+C:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+C:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+F:\my Private Course\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+C:\Users\Mohamed.Alaa\Music\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
+E:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.deps.json
+E:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.runtimeconfig.json
+E:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.dll
+E:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.DataAccess.pdb
+E:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.dll
+E:\Live\myshop.Web\myshop.DataAccess\bin\Debug\net7.0\myshop.Entities.pdb
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.AssemblyReference.cache
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfoInputs.cache
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.AssemblyInfo.cs
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CoreCompileInputs.cache
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.csproj.CopyComplete
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.dll
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\refint\myshop.DataAccess.dll
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.pdb
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\myshop.DataAccess.genruntimeconfig.cache
+E:\Live\myshop.Web\myshop.DataAccess\obj\Debug\net7.0\ref\myshop.DataAccess.dll
